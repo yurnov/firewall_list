@@ -25,5 +25,6 @@ Flags: X - disabled, D - dynamic
 20   banned_network                                    222.186.0.0/16
 21   banned_network                                    195.154.0.0/17
 22   banned_network                                    222.232.0.0/16
+23   banned_network                                    221.192.0.0/16
 
 [jin@svl.router] >>
