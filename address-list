@@ -3,46 +3,38 @@
 Flags: X - disabled, D - dynamic
  #   LIST                                              ADDRESS                                                                TIMEOUT
  0   vk_nets                                           95.213.0.0/18	
- 1   vk_nets                                           95.142.207.0/24
- 2   vk_nets                                           95.142.206.0/24
- 3   vk_nets                                           95.142.204.0/23
- 4   vk_nets                                           95.142.203.0/24
- 5   vk_nets                                           95.142.202.0/24
- 6   vk_nets                                           95.142.201.0/24
- 7   vk_nets                                           95.142.200.0/21
- 8   vk_nets                                           95.142.192.0/21
- 9   vk_nets                                           95.142.192.0/20
-10   vk_nets                                           93.186.232.0/21
-12   vk_nets                                           93.186.224.0/21
-12   vk_nets                                           87.240.128.0/18
-13   vk_nets                                           185.32.251.0/24
-14   mailru_net                                        94.100.176.0/20
-15   mailru_net                                        217.69.128.0/20
-16   mailru_net                                        217.69.128.0/20
-17   mailru_net                                        94.100.176.0/20
-18   ok_net                                            185.16.247.0/24
-19   ok_net                                            185.16.246.0/24
-20   banned_network                                    183.146.0.0/16
-21   banned_network                                    115.212.0.0/16
-22   banned_network                                    119.167.0.0/16
-23   banned_network                                    93.174.95.0/24
-24   banned_network                                    106.57.0.0/16
-25   banned_network                                    211.94.0.0/16
-26   banned_network                                    89.248.0.0/16
-27   banned_network                                    178.207.0.0/16
-28   banned_network                                    62.210.128.0/17
-29   banned_network                                    61.130.254.0/23
-30   banned_network                                    103.242.56.0/24
-31   banned_network                                    179.43.144.0/26
-32   banned_network                                    222.186.0.0/16
-33   banned_network                                    195.154.0.0/17
-34   banned_network                                    222.232.0.0/16
-35   banned_network                                    221.192.0.0/16
-36   banned_network                                    112.80.0.0/16      
-37   banned_network                                    58.83.128.0/18     
-38   banned_network                                    42.62.64.0/18      
-39   banned_network                                    115.230.0.0/18     
-40   banned_network                                    59.111.0.0/16      
-41   banned_network                                    123.96.0.0/16      
+ 1   vk_nets                                           95.142.192.0/20
+ 2   vk_nets                                           93.186.232.0/21
+ 3   vk_nets                                           93.186.224.0/21
+ 4   vk_nets                                           87.240.128.0/18
+ 5   vk_nets                                           185.32.251.0/24
+ 6   mailru_net                                        94.100.176.0/20
+ 7   mailru_net                                        217.69.128.0/20
+ 8   mailru_net                                        217.69.128.0/20
+ 9   mailru_net                                        94.100.176.0/20
+10   ok_net                                            185.16.247.0/24
+12   ok_net                                            185.16.246.0/24
+12   banned_network                                    183.146.0.0/16
+13   banned_network                                    115.212.0.0/16
+14   banned_network                                    119.167.0.0/16
+15   banned_network                                    93.174.95.0/24
+16   banned_network                                    106.57.0.0/16
+17   banned_network                                    211.94.0.0/16
+18   banned_network                                    89.248.0.0/16
+19   banned_network                                    178.207.0.0/16
+20   banned_network                                    62.210.128.0/17
+21   banned_network                                    61.130.254.0/23
+22   banned_network                                    103.242.56.0/24
+23   banned_network                                    179.43.144.0/26
+24   banned_network                                    222.186.0.0/16
+25   banned_network                                    195.154.0.0/17
+26   banned_network                                    222.232.0.0/16
+27   banned_network                                    221.192.0.0/16
+28   banned_network                                    112.80.0.0/16    
+29   banned_network                                    58.83.128.0/18   
+30   banned_network                                    42.62.64.0/18    
+31   banned_network                                    115.230.0.0/18   
+32   banned_network                                    59.111.0.0/16    
+33   banned_network                                    123.96.0.0/16    
 
 [jin@svl.router] >>
